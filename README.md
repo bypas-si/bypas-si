@@ -35,17 +35,17 @@ this project aims to make everything unblocked for people using blocksi on schoo
 -->
 ## versions
 - stable
-  - v0.00.0000
+  - v0.0.00-build.0001
     - 0 versions **behind** canary
-    - 1 version<!--s--> **behind** preview
+    - 0 versions **behind** preview
 - canary
-  - v0.00.0000
+  - v0.0.00-build.0001
     - 0 versions **ahead of** stable
-    - 1 version<!--s--> **behind** preview
+    - 0 versions **behind** preview
 - preview
-  - v1.00.0000
-    - 1 version<!--s--> **ahead of** stable
-    - 1 version<!--s--> **ahead of** canary
+  - v0.0.00-build.0001
+    - 0 versions **ahead of** stable
+    - 0 versions **ahead of** canary
 <!--
 - - -
 ## how to help
