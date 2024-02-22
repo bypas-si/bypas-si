@@ -1,3 +1,9 @@
+<!--
+DEVS!
+Please remember to update this in bypas-si/.github/profile/README.md
+Thank you!
+-->
+
 # the bypassi project
 this project aims to make everything unblocked for people using blocksi on school chromebooks, and to have tons of games and proxies for people to use.
 - - -
